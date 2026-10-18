@@ -1,0 +1,6 @@
+Initial values read from input.txt: [30, 20, 40, 10, 25]
+Initial inorder traversal: 10 20 25 30 40
+Enter an element to insert: 35
+Enter an element to delete: 20
+Final inorder traversal: 10 25 30 35 40
+Output saved to output.txt

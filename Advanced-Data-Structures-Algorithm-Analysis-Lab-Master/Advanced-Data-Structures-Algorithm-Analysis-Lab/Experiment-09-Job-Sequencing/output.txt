@@ -1,0 +1,7 @@
+Job Sequencing with Deadlines (Greedy Algorithm)
+Total jobs: 5
+Scheduled jobs (time slot, job ID, profit):
+Slot 1: Job J3 (Profit: 27)
+Slot 2: Job J1 (Profit: 100)
+Slot 3: Job J5 (Profit: 15)
+Total profit: 142

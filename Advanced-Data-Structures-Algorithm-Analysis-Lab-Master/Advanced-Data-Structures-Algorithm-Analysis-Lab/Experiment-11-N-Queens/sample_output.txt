@@ -1,0 +1,16 @@
+N = 4
+Number of solutions: 2
+
+Solution 1:
+. Q . .
+. . . Q
+Q . . .
+. . Q .
+
+Solution 2:
+. . Q .
+Q . . .
+. . . Q
+. Q . .
+
+Results saved to output.txt

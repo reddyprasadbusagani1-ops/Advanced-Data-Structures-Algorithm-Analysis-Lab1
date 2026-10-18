@@ -1,0 +1,8 @@
+0/1 Knapsack using Dynamic Programming
+Capacity: 50
+Weights: [10, 20, 30]
+Values: [60, 100, 120]
+Selected items (1-based): [2, 3]
+Total weight: 50
+Maximum value: 220
+Results saved to output.txt

@@ -1,0 +1,7 @@
+# Number of vertices and edges
+5 5
+0 1
+1 2
+2 0
+1 3
+3 4

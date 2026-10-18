@@ -1,0 +1,3 @@
+Travelling Salesperson Problem - Branch and Bound
+Optimal tour: 0 -> 1 -> 3 -> 2 -> 0
+Minimum tour cost: 80

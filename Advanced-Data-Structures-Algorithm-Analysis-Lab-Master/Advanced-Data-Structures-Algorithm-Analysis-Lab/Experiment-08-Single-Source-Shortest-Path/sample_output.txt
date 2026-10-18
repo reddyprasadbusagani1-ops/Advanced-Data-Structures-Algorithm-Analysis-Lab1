@@ -1,0 +1,24 @@
+Experiment 8: Single-Source Shortest Path (Dijkstra's Algorithm)
+Number of vertices: 5
+Source vertex: 0
+
+Shortest distances using adjacency matrix:
+Vertex 0: 0
+Vertex 1: 4
+Vertex 2: 3
+Vertex 3: 6
+Vertex 4: 5
+
+Shortest distances using adjacency list:
+Vertex 0: 0
+Vertex 1: 4
+Vertex 2: 3
+Vertex 3: 6
+Vertex 4: 5
+
+Results match: Yes
+Adjacency-matrix execution time: 0.00001054 seconds
+Adjacency-list execution time: 0.00001149 seconds
+Note: Execution times vary by computer and run.
+
+Results saved to output.txt
